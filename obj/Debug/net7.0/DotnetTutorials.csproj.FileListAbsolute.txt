@@ -1,0 +1,15 @@
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\bin\Debug\net7.0\DotnetTutorials.exe
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\bin\Debug\net7.0\DotnetTutorials.deps.json
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\bin\Debug\net7.0\DotnetTutorials.runtimeconfig.json
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\bin\Debug\net7.0\DotnetTutorials.dll
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\bin\Debug\net7.0\DotnetTutorials.pdb
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\obj\Debug\net7.0\DotnetTutorials.csproj.AssemblyReference.cache
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\obj\Debug\net7.0\DotnetTutorials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\obj\Debug\net7.0\DotnetTutorials.AssemblyInfoInputs.cache
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\obj\Debug\net7.0\DotnetTutorials.AssemblyInfo.cs
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\obj\Debug\net7.0\DotnetTutorials.csproj.CoreCompileInputs.cache
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\obj\Debug\net7.0\DotnetTutorials.dll
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\obj\Debug\net7.0\refint\DotnetTutorials.dll
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\obj\Debug\net7.0\DotnetTutorials.pdb
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\obj\Debug\net7.0\DotnetTutorials.genruntimeconfig.cache
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\obj\Debug\net7.0\ref\DotnetTutorials.dll
