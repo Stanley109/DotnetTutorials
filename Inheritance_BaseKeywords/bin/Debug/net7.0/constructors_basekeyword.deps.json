@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "constructors_basekeyword/1.0.0": {
+        "runtime": {
+          "constructors_basekeyword.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "constructors_basekeyword/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

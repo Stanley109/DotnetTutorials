@@ -1,0 +1,15 @@
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\constructors_basekeyword\bin\Debug\net7.0\constructors_basekeyword.exe
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\constructors_basekeyword\bin\Debug\net7.0\constructors_basekeyword.deps.json
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\constructors_basekeyword\bin\Debug\net7.0\constructors_basekeyword.runtimeconfig.json
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\constructors_basekeyword\bin\Debug\net7.0\constructors_basekeyword.dll
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\constructors_basekeyword\bin\Debug\net7.0\constructors_basekeyword.pdb
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\constructors_basekeyword\obj\Debug\net7.0\constructors_basekeyword.csproj.AssemblyReference.cache
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\constructors_basekeyword\obj\Debug\net7.0\constructors_basekeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\constructors_basekeyword\obj\Debug\net7.0\constructors_basekeyword.AssemblyInfoInputs.cache
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\constructors_basekeyword\obj\Debug\net7.0\constructors_basekeyword.AssemblyInfo.cs
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\constructors_basekeyword\obj\Debug\net7.0\constructors_basekeyword.csproj.CoreCompileInputs.cache
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\constructors_basekeyword\obj\Debug\net7.0\constructors_basekeyword.dll
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\constructors_basekeyword\obj\Debug\net7.0\refint\constructors_basekeyword.dll
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\constructors_basekeyword\obj\Debug\net7.0\constructors_basekeyword.pdb
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\constructors_basekeyword\obj\Debug\net7.0\constructors_basekeyword.genruntimeconfig.cache
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\constructors_basekeyword\obj\Debug\net7.0\ref\constructors_basekeyword.dll

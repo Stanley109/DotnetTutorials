@@ -1,0 +1,15 @@
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\Inheritance_BaseKeywords\bin\Debug\net7.0\Inheritance_BaseKeywords.exe
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\Inheritance_BaseKeywords\bin\Debug\net7.0\Inheritance_BaseKeywords.deps.json
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\Inheritance_BaseKeywords\bin\Debug\net7.0\Inheritance_BaseKeywords.runtimeconfig.json
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\Inheritance_BaseKeywords\bin\Debug\net7.0\Inheritance_BaseKeywords.dll
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\Inheritance_BaseKeywords\bin\Debug\net7.0\Inheritance_BaseKeywords.pdb
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\Inheritance_BaseKeywords\obj\Debug\net7.0\Inheritance_BaseKeywords.csproj.AssemblyReference.cache
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\Inheritance_BaseKeywords\obj\Debug\net7.0\Inheritance_BaseKeywords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\Inheritance_BaseKeywords\obj\Debug\net7.0\Inheritance_BaseKeywords.AssemblyInfoInputs.cache
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\Inheritance_BaseKeywords\obj\Debug\net7.0\Inheritance_BaseKeywords.AssemblyInfo.cs
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\Inheritance_BaseKeywords\obj\Debug\net7.0\Inheritance_BaseKeywords.csproj.CoreCompileInputs.cache
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\Inheritance_BaseKeywords\obj\Debug\net7.0\Inheritance_BaseKeywords.dll
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\Inheritance_BaseKeywords\obj\Debug\net7.0\refint\Inheritance_BaseKeywords.dll
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\Inheritance_BaseKeywords\obj\Debug\net7.0\Inheritance_BaseKeywords.pdb
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\Inheritance_BaseKeywords\obj\Debug\net7.0\Inheritance_BaseKeywords.genruntimeconfig.cache
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\Inheritance_BaseKeywords\obj\Debug\net7.0\ref\Inheritance_BaseKeywords.dll
