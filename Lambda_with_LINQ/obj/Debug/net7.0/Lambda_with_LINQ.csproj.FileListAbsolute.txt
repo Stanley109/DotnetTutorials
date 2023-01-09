@@ -1,0 +1,15 @@
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\Lambda_with_LINQ\bin\Debug\net7.0\Lambda_with_LINQ.exe
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\Lambda_with_LINQ\bin\Debug\net7.0\Lambda_with_LINQ.deps.json
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\Lambda_with_LINQ\bin\Debug\net7.0\Lambda_with_LINQ.runtimeconfig.json
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\Lambda_with_LINQ\bin\Debug\net7.0\Lambda_with_LINQ.dll
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\Lambda_with_LINQ\bin\Debug\net7.0\Lambda_with_LINQ.pdb
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\Lambda_with_LINQ\obj\Debug\net7.0\Lambda_with_LINQ.csproj.AssemblyReference.cache
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\Lambda_with_LINQ\obj\Debug\net7.0\Lambda_with_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\Lambda_with_LINQ\obj\Debug\net7.0\Lambda_with_LINQ.AssemblyInfoInputs.cache
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\Lambda_with_LINQ\obj\Debug\net7.0\Lambda_with_LINQ.AssemblyInfo.cs
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\Lambda_with_LINQ\obj\Debug\net7.0\Lambda_with_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\Lambda_with_LINQ\obj\Debug\net7.0\Lambda_with_LINQ.dll
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\Lambda_with_LINQ\obj\Debug\net7.0\refint\Lambda_with_LINQ.dll
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\Lambda_with_LINQ\obj\Debug\net7.0\Lambda_with_LINQ.pdb
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\Lambda_with_LINQ\obj\Debug\net7.0\Lambda_with_LINQ.genruntimeconfig.cache
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\Lambda_with_LINQ\obj\Debug\net7.0\ref\Lambda_with_LINQ.dll

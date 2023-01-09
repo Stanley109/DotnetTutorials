@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JASON\\Documents\\Git Repos\\DotnetTutorials\\Inheritance_BaseKeywords\\Inheritance_BaseKeywords.csproj": {}
+    "C:\\Users\\JASON\\Documents\\Git Repos\\DotnetTutorials\\Lambda_with_linq\\Lambda_with_LINQ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JASON\\Documents\\Git Repos\\DotnetTutorials\\Inheritance_BaseKeywords\\Inheritance_BaseKeywords.csproj": {
+    "C:\\Users\\JASON\\Documents\\Git Repos\\DotnetTutorials\\Lambda_with_linq\\Lambda_with_LINQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JASON\\Documents\\Git Repos\\DotnetTutorials\\Inheritance_BaseKeywords\\Inheritance_BaseKeywords.csproj",
-        "projectName": "Inheritance_BaseKeywords",
-        "projectPath": "C:\\Users\\JASON\\Documents\\Git Repos\\DotnetTutorials\\Inheritance_BaseKeywords\\Inheritance_BaseKeywords.csproj",
+        "projectUniqueName": "C:\\Users\\JASON\\Documents\\Git Repos\\DotnetTutorials\\Lambda_with_linq\\Lambda_with_LINQ.csproj",
+        "projectName": "Lambda_with_LINQ",
+        "projectPath": "C:\\Users\\JASON\\Documents\\Git Repos\\DotnetTutorials\\Lambda_with_linq\\Lambda_with_LINQ.csproj",
         "packagesPath": "C:\\Users\\JASON\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JASON\\Documents\\Git Repos\\DotnetTutorials\\Inheritance_BaseKeywords\\obj\\",
+        "outputPath": "C:\\Users\\JASON\\Documents\\Git Repos\\DotnetTutorials\\Lambda_with_linq\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JASON\\AppData\\Roaming\\NuGet\\NuGet.Config"
