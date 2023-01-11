@@ -1,0 +1,15 @@
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\lists_and_generics\bin\Debug\net7.0\lists_and_generics.exe
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\lists_and_generics\bin\Debug\net7.0\lists_and_generics.deps.json
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\lists_and_generics\bin\Debug\net7.0\lists_and_generics.runtimeconfig.json
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\lists_and_generics\bin\Debug\net7.0\lists_and_generics.dll
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\lists_and_generics\bin\Debug\net7.0\lists_and_generics.pdb
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\lists_and_generics\obj\Debug\net7.0\lists_and_generics.csproj.AssemblyReference.cache
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\lists_and_generics\obj\Debug\net7.0\lists_and_generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\lists_and_generics\obj\Debug\net7.0\lists_and_generics.AssemblyInfoInputs.cache
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\lists_and_generics\obj\Debug\net7.0\lists_and_generics.AssemblyInfo.cs
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\lists_and_generics\obj\Debug\net7.0\lists_and_generics.csproj.CoreCompileInputs.cache
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\lists_and_generics\obj\Debug\net7.0\lists_and_generics.dll
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\lists_and_generics\obj\Debug\net7.0\refint\lists_and_generics.dll
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\lists_and_generics\obj\Debug\net7.0\lists_and_generics.pdb
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\lists_and_generics\obj\Debug\net7.0\lists_and_generics.genruntimeconfig.cache
+C:\Users\JASON\Documents\Git Repos\DotnetTutorials\lists_and_generics\obj\Debug\net7.0\ref\lists_and_generics.dll

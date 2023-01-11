@@ -44,7 +44,7 @@ class Car:Vehicle {
         this.cost = cost;
     }  
     
-    public override void displaySize()  //override keyword is need to override the same method name it parent's class has1
+    public override void displaySize()  //override keyword is need to override the same method name it parent's class has
     {
         Console.WriteLine("Car Size: " + vehicleSize);
     }
