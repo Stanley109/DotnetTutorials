@@ -15,4 +15,4 @@ Happy learning to all of us!
 
 Cheers!
 
-Jason Kho
+Jason
