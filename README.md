@@ -12,7 +12,5 @@ In the future, I might add Nunit runnable tests. In that case, use 'dotnet test'
 
 Happy learning to all of us!
 
-
 Cheers!
-
 Jason
